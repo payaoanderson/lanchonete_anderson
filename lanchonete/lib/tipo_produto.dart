@@ -1,5 +1,5 @@
 
 
 
-enum TipoComida {Comida, Bebida}
+enum TipoProduto {Comida, Bebida}
 
