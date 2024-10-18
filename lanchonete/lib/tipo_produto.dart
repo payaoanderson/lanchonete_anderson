@@ -1,0 +1,5 @@
+
+
+
+enum TipoComida {Comida, Bebida}
+
